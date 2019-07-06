@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 
-HEADER = '''# Competive-coding
+HEADER = '''# Competive-Coding
 This repository keeps a track of all the competitive problems solved by me.
 
 '''
@@ -15,15 +15,13 @@ def get_dirs ():
 	dirs = [x for x in os.listdir ('.') if os.path.isdir (x) and '.git' not in x]
 	return dirs
 
-# ''' Read the file until we hit the first line that starts with a #
-# indicating a title in markdown.  We'll use that as the title for this
-# entry. '''
-# def get_title (til_file):
-# 	with open (til_file) as file:
-# 		for line in file:
-# 			line = line.strip ()
-# 			if line.startswith ('#'):
-# 				return line[1:].lstrip ()  # text after # and whitespace
+#GET PROBLEM STATEMENT
+def get_problem (srcfile):
+	with open (srcfile) as file:
+		for line in file:
+			line = line.strip ()
+			if line.startswith ('//') or line.startswith ('#'):
+				return line[1:].lstrip ()
 
 #FOR EACH DIRECTORY GET THE LINK OF PROGRAMS IN IT
 def get_program (category):
@@ -78,11 +76,10 @@ def print_file (category_names, count, categories):
 			c = 1
 			for (title, filename) in sorted (programs):
 				file.write ('**' + str(c) + ') {0}**  \n'.format (title))
-				file.write ('  * [Problem Statement]({0})  \n'.format (filename))
+				file.write ('  * [Problem Statement]({0})  \n'.format (get_problem(filename)))
 				file.write ('  * [Solution]({0})  \n\n'.format (filename))
 				c+=1
-			file.write ('\n')
-
+			file.write ('---\n')
 
 		if len (category_names) > 0:
 			file.write ('''

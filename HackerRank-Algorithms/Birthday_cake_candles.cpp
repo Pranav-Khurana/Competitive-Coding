@@ -1,3 +1,4 @@
+//https://hackerrank-challenge-pdfs.s3.amazonaws.com/23074-birthday-cake-candles-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562405974&Signature=Qgg2jz%2B%2BNBhwr2tgq3ouzsZDsB0%3D&response-content-disposition=inline%3B%20filename%3Dbirthday-cake-candles-English.pdf&response-content-type=application%2Fpdf
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -5,14 +6,14 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the birthdayCakeCandles function below.
-int birthdayCakeCandles(vector<int> arr,int n) 
+int birthdayCakeCandles(vector<int> arr,int n)
 {
     int m=0,i,c=0;
     for(i=0; i<n; i++)
         m=m>arr[i]?m:arr[i];
     for(i=0; i<n; i++)
         if(arr[i]==m)
-           c++; 
+           c++;
     return c;
 }
 

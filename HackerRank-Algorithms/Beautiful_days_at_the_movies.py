@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/27191-beautiful-days-at-the-movies-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562405830&Signature=KjHJXUD7GQ357pCaEwKNh%2FHv7os%3D&response-content-disposition=inline%3B%20filename%3Dbeautiful-days-at-the-movies-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math

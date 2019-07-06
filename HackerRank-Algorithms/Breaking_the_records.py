@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/32335-breaking-best-and-worst-records-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562404614&Signature=YjpRKxR8ihp7uwcrEAt%2BmnrqeEE%3D&response-content-disposition=inline%3B%20filename%3Dbreaking-best-and-worst-records-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math
