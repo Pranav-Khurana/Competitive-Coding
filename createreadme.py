@@ -77,9 +77,9 @@ def print_file (category_names, count, categories):
 			programs = categories[category]
 			c = 1
 			for (title, filename) in sorted (programs):
-				file.write ('>*' + str(c) + ') {0}*\n'.format (title))
-				file.write ('> -[Problem Statement]({0})\n'.format (filename))
-				file.write ('> -[Solution]({0})\n\n'.format (filename))
+				file.write ('''*' + str(c) + ') {0}*
+								                -[Problem Statement]({1})
+												-[Solution]({1})'''.format (title,filename))
 				c+=1
 			file.write ('\n')
 
