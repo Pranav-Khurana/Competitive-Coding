@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/9828-simple-array-sum-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477698&Signature=%2BBd2QjEm8GzHoqpcX9OhrJSokjg%3D&response-content-disposition=inline%3B%20filename%3Dsimple-array-sum-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import os

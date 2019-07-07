@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/22578-camelcase-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476347&Signature=%2FAyf3o2JhcMBlM17CQJz%2BzZ2Wgk%3D&response-content-disposition=inline%3B%20filename%3Dcamelcase-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math

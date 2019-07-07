@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/21634-divisible-sum-pairs-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476810&Signature=9EKfJefRPP33%2BEQ5RxeNFnXUNa4%3D&response-content-disposition=inline%3B%20filename%3Ddivisible-sum-pairs-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math

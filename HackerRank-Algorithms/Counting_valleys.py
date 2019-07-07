@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/22936-counting-valleys-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476506&Signature=H9uoWpxZPyxWHxr8yeQ8BGkfXb8%3D&response-content-disposition=inline%3B%20filename%3Dcounting-valleys-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math
@@ -22,7 +23,7 @@ def countingValleys(n, s):
         if sl>=0:
             m=0
     return vc
-    
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 

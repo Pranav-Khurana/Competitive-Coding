@@ -30,10 +30,11 @@ def get_program (category):
 	for filename in program:
 		fullname = os.path.join (category, filename)
 		if (os.path.isfile (fullname)) and (fullname.endswith ('.cpp') or fullname.endswith ('.c') or fullname.endswith ('.java') or fullname.endswith ('.py')):
+			problem = get_problem(fullname)
 			title = Path (fullname).stem
 			# changing path separator for Windows paths
 			# https://mail.python.org/pipermail/tutor/2011-July/084788.html
-			titles.append ((title, fullname.replace (os.path.sep, '/')))
+			titles.append ((title,problem,'https://github.com/Pranav-Khurana/Competitive-Coding/' + fullname.replace (os.path.sep, '/')))
 	return titles
 
 def get_category_dict (category_names):
@@ -60,7 +61,7 @@ def print_file (category_names, count, categories):
 ''')
 		# print the list of categories with links
 		for category in sorted (category_names):
-			file.write ('* [{0}](#{0})\n'.format (category))
+			file.write ('* [{0}](#{1})\n'.format (category,category.lower()))
 
 		if len (category_names) > 0:
 			file.write ('''
@@ -74,16 +75,15 @@ def print_file (category_names, count, categories):
 			file.write ('\n')
 			programs = categories[category]
 			c = 1
-			for (title, filename) in sorted (programs):
+			for (title, problem, solution) in sorted (programs):
 				file.write ('**' + str(c) + ') {0}**  \n'.format (title))
-				file.write ('  * [Problem Statement]({0})  \n'.format (get_problem(filename)))
-				file.write ('  * [Solution]({0})  \n\n'.format (filename))
+				file.write ('  * [Problem Statement]({0})  \n'.format (problem))
+				file.write ('  * [Solution]({0})  \n\n'.format (solution))
 				c+=1
 			file.write ('---\n')
 
 		if len (category_names) > 0:
 			file.write ('''
-
 ---
 ''')
 

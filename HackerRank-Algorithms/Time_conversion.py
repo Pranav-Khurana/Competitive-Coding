@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/8649-time-conversion-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477844&Signature=uDe2OLe%2FB5yxfQQDMb6cUdVPThs%3D&response-content-disposition=inline%3B%20filename%3Dtime-conversion-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import os
@@ -12,8 +13,8 @@ def timeConversion(s):
     elif t.lower()=='am' and s[:2]=='12':
         s=s.replace(s[:2],'00')
     return s[:8]
-        
-    
+
+
 
 if __name__ == '__main__':
     f = open(os.environ['OUTPUT_PATH'], 'w')
@@ -25,13 +26,3 @@ if __name__ == '__main__':
     f.write(result + '\n')
 
     f.close()
-
-
-
-
-
-
-
-
-    
-   

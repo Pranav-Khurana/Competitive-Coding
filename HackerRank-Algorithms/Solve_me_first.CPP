@@ -1,3 +1,4 @@
+//https://hackerrank-challenge-pdfs.s3.amazonaws.com/2532-solve-me-first-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477783&Signature=EB7sQlpUlMxgnpNyyZmMr%2BKpL2w%3D&response-content-disposition=inline%3B%20filename%3Dsolve-me-first-English.pdf&response-content-type=application%2Fpdf
 #include <cmath>
 #include <cstdio>
 #include <vector>

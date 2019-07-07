@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/1957-cut-the-sticks-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476582&Signature=VshzfcHQAGPv5KIC1xNsob8t%2Fck%3D&response-content-disposition=inline%3B%20filename%3Dcut-the-sticks-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math
@@ -19,8 +20,8 @@ def cutTheSticks(ls):
             ls.remove(0)
         rls.append(c)
     return rls
-            
-            
+
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

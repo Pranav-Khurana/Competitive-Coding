@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/22477-kangaroo-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477136&Signature=cUe3CwN6CdlSsYonunUuVkTs210%3D&response-content-disposition=inline%3B%20filename%3Dkangaroo-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import math
@@ -20,7 +21,7 @@ def kangaroo(x1, v1, x2, v2):
         return('YES')
     elif m==0:
         return('NO')
-        
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

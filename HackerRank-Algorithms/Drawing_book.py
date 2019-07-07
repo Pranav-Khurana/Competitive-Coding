@@ -1,3 +1,4 @@
+#https://hackerrank-challenge-pdfs.s3.amazonaws.com/22564-drawing-book-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476932&Signature=AFiscbKrKVrp1B0E6TAlTDCsbVY%3D&response-content-disposition=inline%3B%20filename%3Ddrawing-book-English.pdf&response-content-type=application%2Fpdf
 #!/bin/python3
 
 import os
@@ -27,8 +28,8 @@ def pageCount(n, p):
     else:
         return spc
 
-    
-    
+
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 

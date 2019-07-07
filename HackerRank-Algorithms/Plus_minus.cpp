@@ -1,3 +1,4 @@
+//https://hackerrank-challenge-pdfs.s3.amazonaws.com/8654-plus-minus-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477590&Signature=lqGwTQ%2BUgmyEeet%2BRFTPePC6%2Ff0%3D&response-content-disposition=inline%3B%20filename%3Dplus-minus-English.pdf&response-content-type=application%2Fpdf
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -5,7 +6,7 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the plusMinus function below.
-void plusMinus(vector<int> arr,int N) 
+void plusMinus(vector<int> arr,int N)
 {
     float p=0,n=0,z=0,i;
     for(i=0;i<N;i++)
@@ -15,7 +16,7 @@ void plusMinus(vector<int> arr,int N)
         if(arr[i]==0)
             z++;
         if(arr[i]<0)
-            n++;       
+            n++;
     }
     p/=N;
     n/=N;

@@ -1,3 +1,4 @@
+//https://hackerrank-challenge-pdfs.s3.amazonaws.com/26276-mini-max-sum-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477373&Signature=jvRNbE5qfS7MofsJcU1zFLMfP3k%3D&response-content-disposition=inline%3B%20filename%3Dmini-max-sum-English.pdf&response-content-type=application%2Fpdf
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -5,7 +6,7 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the miniMaxSum function below.
-void miniMaxSum(vector<int> arr) 
+void miniMaxSum(vector<int> arr)
 {
     long int mx=0,mn=2999483647, sum;
     for(int i=0; i<5; i++)
