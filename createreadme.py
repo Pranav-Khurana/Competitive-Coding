@@ -34,7 +34,7 @@ def get_program (category):
 			title = Path (fullname).stem
 			# changing path separator for Windows paths
 			# https://mail.python.org/pipermail/tutor/2011-July/084788.html
-			titles.append ((title,problem,'https://github.com/Pranav-Khurana/Competitive-Coding/' + fullname.replace (os.path.sep, '/')))
+			titles.append ((title,problem,'https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/' + fullname.replace (os.path.sep, '/')))
 	return titles
 
 def get_category_dict (category_names):
