@@ -129,34 +129,34 @@ This repository keeps a track of all the competitive problems solved by me.
 ### HackerRank-Datastructures
 
 **1) 2d_arrays_ds**  
-  * [Problem Statement](!/bin/python3)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/13581-2d-array-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562479851&Signature=OBZ5i1Tr%2BxGocmeFDNpJ94AZsHw%3D&response-content-disposition=inline%3B%20filename%3D2d-array-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Datastructures/2d_arrays_ds.py)  
 
 **2) Arrays_ds**  
-  * [Problem Statement](!/bin/python3)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/13579-arrays-ds-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562479913&Signature=A0VIjPNscp2CRePSD1qM4Pb%2FF90%3D&response-content-disposition=inline%3B%20filename%3Darrays-ds-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Datastructures/Arrays_ds.py)  
 
 **3) Print_the_elements_of_a_linked_list**  
-  * [Problem Statement](/ Complete the printLinkedList function below.)  
+  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/1082-print-the-elements-of-a-linked-list-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480056&Signature=d7PetQ21FWErG4lY0WV3k8MW9UY%3D&response-content-disposition=inline%3B%20filename%3Dprint-the-elements-of-a-linked-list-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Datastructures/Print_the_elements_of_a_linked_list.cpp)  
 
 **4) Sparse_arrays**  
-  * [Problem Statement](!/bin/python3)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/13724-sparse-arrays-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480151&Signature=%2BiTugBtXDwpEmCP3VtaH3nZ6PZY%3D&response-content-disposition=inline%3B%20filename%3Dsparse-arrays-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Datastructures/Sparse_arrays.py)  
 
 ---
 ### HackerRank-Java
 
 **1) Java_if_else**  
-  * [Problem Statement](None)  
+  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/13689-java-if-else-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480240&Signature=uYwreBXpH1N2EjDgPzsGm55b0b8%3D&response-content-disposition=inline%3B%20filename%3Djava-if-else-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Java/Java_if_else.java)  
 
 **2) Java_stdin_and_stdout_1**  
-  * [Problem Statement](None)  
+  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/9762-java-stdin-and-stdout-1-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480292&Signature=TPoSywvsD7%2Fy2zZCtFp5HU7qfbQ%3D&response-content-disposition=inline%3B%20filename%3Djava-stdin-and-stdout-1-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Java/Java_stdin_and_stdout_1.java)  
 
 **3) Welcome_to_java**  
-  * [Problem Statement](None)  
+  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/7875-welcome-to-java-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480347&Signature=Bh498Nk4d1BaIL6rRsdbecV5M4o%3D&response-content-disposition=inline%3B%20filename%3Dwelcome-to-java-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Java/Welcome_to_java.java)  
 
 ---
