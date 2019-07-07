@@ -21,7 +21,7 @@ def get_problem (srcfile):
 		for line in file:
 			line = line.strip ()
 			if line.startswith ('//') or line.startswith ('#'):
-				return line[1:].lstrip ()
+				return line.lstrip ('//').lstrip('#').lstrip()
 
 #FOR EACH DIRECTORY GET THE LINK OF PROGRAMS IN IT
 def get_program (category):

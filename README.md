@@ -30,7 +30,7 @@ This repository keeps a track of all the competitive problems solved by me.
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Between_two_sets.py)  
 
 **5) Birthday_cake_candles**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/23074-birthday-cake-candles-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562405974&Signature=Qgg2jz%2B%2BNBhwr2tgq3ouzsZDsB0%3D&response-content-disposition=inline%3B%20filename%3Dbirthday-cake-candles-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/23074-birthday-cake-candles-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562405974&Signature=Qgg2jz%2B%2BNBhwr2tgq3ouzsZDsB0%3D&response-content-disposition=inline%3B%20filename%3Dbirthday-cake-candles-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Birthday_cake_candles.cpp)  
 
 **6) Birthday_chocolate**  
@@ -66,7 +66,7 @@ This repository keeps a track of all the competitive problems solved by me.
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Day_of_the_programmer.py)  
 
 **14) Diagonal_difference**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/8662-diagonal-difference-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476807&Signature=rQG2omvtoU5cOMq6HaTYQ5lRv40%3D&response-content-disposition=inline%3B%20filename%3Ddiagonal-difference-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/8662-diagonal-difference-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562476807&Signature=rQG2omvtoU5cOMq6HaTYQ5lRv40%3D&response-content-disposition=inline%3B%20filename%3Ddiagonal-difference-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Diagonal_difference.cpp)  
 
 **15) Divisible_sum_pairs**  
@@ -102,11 +102,11 @@ This repository keeps a track of all the competitive problems solved by me.
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Migratory_birds.py)  
 
 **23) Mini_max_sum**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/26276-mini-max-sum-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477373&Signature=jvRNbE5qfS7MofsJcU1zFLMfP3k%3D&response-content-disposition=inline%3B%20filename%3Dmini-max-sum-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/26276-mini-max-sum-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477373&Signature=jvRNbE5qfS7MofsJcU1zFLMfP3k%3D&response-content-disposition=inline%3B%20filename%3Dmini-max-sum-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Mini_max_sum.cpp)  
 
 **24) Plus_minus**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/8654-plus-minus-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477590&Signature=lqGwTQ%2BUgmyEeet%2BRFTPePC6%2Ff0%3D&response-content-disposition=inline%3B%20filename%3Dplus-minus-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/8654-plus-minus-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477590&Signature=lqGwTQ%2BUgmyEeet%2BRFTPePC6%2Ff0%3D&response-content-disposition=inline%3B%20filename%3Dplus-minus-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Plus_minus.cpp)  
 
 **25) Simple_array_sum**  
@@ -118,7 +118,7 @@ This repository keeps a track of all the competitive problems solved by me.
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Sock_merchant.py)  
 
 **27) Staircase**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/8636-staircase-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477793&Signature=1Cp5782C1TFhALHaPapck%2B8kDo4%3D&response-content-disposition=inline%3B%20filename%3Dstaircase-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/8636-staircase-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562477793&Signature=1Cp5782C1TFhALHaPapck%2B8kDo4%3D&response-content-disposition=inline%3B%20filename%3Dstaircase-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Algorithms/Staircase.cpp)  
 
 **28) Time_conversion**  
@@ -137,7 +137,7 @@ This repository keeps a track of all the competitive problems solved by me.
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Datastructures/Arrays_ds.py)  
 
 **3) Print_the_elements_of_a_linked_list**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/1082-print-the-elements-of-a-linked-list-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480056&Signature=d7PetQ21FWErG4lY0WV3k8MW9UY%3D&response-content-disposition=inline%3B%20filename%3Dprint-the-elements-of-a-linked-list-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/1082-print-the-elements-of-a-linked-list-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480056&Signature=d7PetQ21FWErG4lY0WV3k8MW9UY%3D&response-content-disposition=inline%3B%20filename%3Dprint-the-elements-of-a-linked-list-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Datastructures/Print_the_elements_of_a_linked_list.cpp)  
 
 **4) Sparse_arrays**  
@@ -148,15 +148,15 @@ This repository keeps a track of all the competitive problems solved by me.
 ### HackerRank-Java
 
 **1) Java_if_else**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/13689-java-if-else-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480240&Signature=uYwreBXpH1N2EjDgPzsGm55b0b8%3D&response-content-disposition=inline%3B%20filename%3Djava-if-else-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/13689-java-if-else-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480240&Signature=uYwreBXpH1N2EjDgPzsGm55b0b8%3D&response-content-disposition=inline%3B%20filename%3Djava-if-else-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Java/Java_if_else.java)  
 
 **2) Java_stdin_and_stdout_1**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/9762-java-stdin-and-stdout-1-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480292&Signature=TPoSywvsD7%2Fy2zZCtFp5HU7qfbQ%3D&response-content-disposition=inline%3B%20filename%3Djava-stdin-and-stdout-1-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/9762-java-stdin-and-stdout-1-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480292&Signature=TPoSywvsD7%2Fy2zZCtFp5HU7qfbQ%3D&response-content-disposition=inline%3B%20filename%3Djava-stdin-and-stdout-1-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Java/Java_stdin_and_stdout_1.java)  
 
 **3) Welcome_to_java**  
-  * [Problem Statement](/https://hackerrank-challenge-pdfs.s3.amazonaws.com/7875-welcome-to-java-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480347&Signature=Bh498Nk4d1BaIL6rRsdbecV5M4o%3D&response-content-disposition=inline%3B%20filename%3Dwelcome-to-java-English.pdf&response-content-type=application%2Fpdf)  
+  * [Problem Statement](https://hackerrank-challenge-pdfs.s3.amazonaws.com/7875-welcome-to-java-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1562480347&Signature=Bh498Nk4d1BaIL6rRsdbecV5M4o%3D&response-content-disposition=inline%3B%20filename%3Dwelcome-to-java-English.pdf&response-content-type=application%2Fpdf)  
   * [Solution](https://github.com/Pranav-Khurana/Competitive-Coding/blob/master/HackerRank-Java/Welcome_to_java.java)  
 
 ---
