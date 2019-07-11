@@ -3,6 +3,10 @@ This repository keeps a track of all the competitive problems solved by me.
 
 >_35 Problems solved till date_
 
+![GitHub](https://img.shields.io/github/license/Pranav-Khurana/Competitive-Coding.svg?style=popout)
+![GitHub top language](https://img.shields.io/github/languages/top/Pranav-Khurana/Competitive-Coding.svg?style=popout)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pranav-Khurana/Competitive-Coding.svg?style=popout)
+
 ---
 ## Categories
 * [HackerRank-Algorithms](#hackerrank-algorithms)
