@@ -9,9 +9,9 @@ HEADER = '''# Competive-Coding
 This repository keeps a track of all the competitive problems solved by me.
 
 ![GitHub](https://img.shields.io/github/license/Pranav-Khurana/Competitive-Coding.svg?style=popout)
+![GitHub language count](https://img.shields.io/github/languages/count/Pranav-Khurana/Competitive-Coding.svg?style=popout)
 ![GitHub top language](https://img.shields.io/github/languages/top/Pranav-Khurana/Competitive-Coding.svg?style=popout)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pranav-Khurana/Competitive-Coding.svg?style=popout)
-
 '''
 
 # GET THE LIST OF ALL THE CATEGORIES
